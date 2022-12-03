@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Image Classification',
+      title: 'Turkish Lira Detection',
       theme: ThemeData(
         primarySwatch: Colors.orange,
       ),
